@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 
 /**
- * **TODO (1.1)**:
+ * **TODO (1.1 Requirements)**:
  * - [ ] Inside of this `App.js` file, create 3 components: `Header`, `Content`, and `Total`.
  *  - [ ] `<Header />` takes care of rendering the name of the course.
  *  - [ ] `<Content />` renders the parts and their number of exercises.
