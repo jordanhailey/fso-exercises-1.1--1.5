@@ -3,10 +3,11 @@ import './style.css';
 
 /**
  * **TODO (1.1)**:
- * - Create 3 Functions Header, Content, and Total in the App.js file, which passes the necessary data to each component using props.
- * > - Header takes care of rendering the name of the course.
- * > - Content renders the parts and their number of exercises.
- * > - Total renders the total number of exercises.
+ * - [ ] Inside of this `App.js` file, create 3 components: `Header`, `Content`, and `Total`.
+ *  - [ ] `<Header />` takes care of rendering the name of the course.
+ *  - [ ] `<Content />` renders the parts and their number of exercises.
+ *  - [ ] `<Total />` renders the total number of exercises.
+ * - [ ] The `App` component should pass the necessary data to each of the newly created components through props.
  */
 const App = () => {
   const course = 'Half Stack application development';
