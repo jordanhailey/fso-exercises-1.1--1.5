@@ -3,6 +3,8 @@ import './style.css';
 
 /**
  * **Exercise 1.1 Requirements**:
+ * > https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2
+ *
  * - [ ] Inside of this `App.js` file, create 3 components: `Header`, `Content`, and `Total`.
  *  - [ ] `<Header />` takes care of rendering the name of the course.
  *  - [ ] `<Content />` renders the parts and their number of exercises.
